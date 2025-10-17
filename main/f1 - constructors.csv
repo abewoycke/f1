@@ -1,4 +1,5 @@
 Team,Cost
+<<<<<<< HEAD
 McLaren,35.4
 Ferrari,30.9
 Red Bull,29.6
@@ -9,3 +10,15 @@ Aston Martin,12.1
 Racing Bulls,13.6
 Haas,13
 Kick Sauber,10.1
+=======
+McLaren,33
+Ferrari,29.1
+Red Bull,27.8
+Mercedes,24.7
+Williams,16.7
+Alpine,8.3
+Aston Martin,8.9
+Racing Bulls,12.4
+Haas,10.2
+Kick Sauber,6.9
+>>>>>>> 69eaf835ad4a1dab7be2a68d463a8ab2927b53fe
