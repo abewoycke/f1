@@ -1,45 +1,21 @@
-<<<<<<< HEAD
 Driver,Constructor,Odds,Implied Win Probability,Season Points,Season Points per Race,Cost
-Lando Norris,McLaren,220,0.3125,569,29.9,30.8
-Charles Leclerc,Ferrari,1600,0.05882352941,269,14.2,22.9
-Max Verstappen,Red Bull,210,0.3225806452,482,25.4,28.8
-Oscar Piastri,McLaren,250,0.2857142857,562,29.6,26.6
-Lewis Hamilton,Ferrari,2500,0.03846153846,300,15.8,22.8
-George Russell,Mercedes,1200,0.07692307692,430,22.6,23
-Kimi Antonelli,Mercedes,6600,0.01492537313,169,8.9,15.1
-Liam Lawson,Racing Bulls,40000,0.002493765586,37,1.9,6.5
-Carlos Sainz,Williams,30000,0.003322259136,66,3.5,6.3
-Alex Albon,Williams,30000,0.003322259136,148,7.8,12.8
-Fernando Alonso,Aston Martin,40000,0.002493765586,56,2.9,6.7
-Pierre Gasly,Alpine,150000,0.0006662225183,21,1.1,4.5
-Yuki Tsunoda,Red Bull,40000,0.002493765586,104,5.5,9.6
-Esteban Ocon,Haas,100000,0.000999000999,123,6.5,7.7
-Isack Hadjar,Racing Bulls,30000,0.003322259136,82,4.3,7.1
-Lance Stroll,Aston Martin,150000,0.0006662225183,134,7.1,9.3
-Nico Hulkenberg,Kick Sauber,75000,0.001331557923,139,7.3,8
-Oliver Bearman,Haas,50000,0.001996007984,127,6.7,7.1
-Franco Colapinto,Alpine,200000,0.0004997501249,7,0.5,4.5
-Gabriel Bortoleto,Kick Sauber,75000,0.001331557923,48,2.5,6.1
-=======
-Driver,Constructor,Odds,Implied Win Probability,Cost,Win:Cost Ratio
-Lando Norris,McLaren,225,0.3076923077,31,0.009925558313
-Charles Leclerc,Ferrari,1800,0.05263157895,24.3,0.002165908599
-Max Verstappen,Red Bull,360,0.2173913043,29.2,0.007444907683
-Oscar Piastri,McLaren,185,0.350877193,25.2,0.01392369813
-Lewis Hamilton,Ferrari,3300,0.02941176471,23.6,0.001246261216
-George Russell,Mercedes,850,0.1052631579,22,0.004784688995
-Kimi Antonelli,Mercedes,3400,0.02857142857,18.3,0.00156128025
-Liam Lawson,Racing Bulls,100000,0.000999000999,4.8,0.0002081252081
-Carlos Sainz,Williams,25000,0.003984063745,8.3,0.0004800076801
-Alex Albon,Williams,25000,0.003984063745,12.4,0.0003212954633
-Fernando Alonso,Aston Martin,25000,0.003984063745,5.1,0.0007811889696
-Pierre Gasly,Alpine,100000,0.000999000999,5.8,0.0001722415516
-Yuki Tsunoda,Red Bull,75000,0.001331557923,13.2,0.0001008756002
-Esteban Ocon,Haas,200000,0.0004997501249,7.7,0.00006490261363
-Isack Hadjar,Racing Bulls,75000,0.001331557923,6.7,0.0001987399885
-Lance Stroll,Aston Martin,300000,0.0003332222592,8.5,0.00003920261873
-Nico Hulkenberg,Kick Sauber,100000,0.000999000999,7.2,0.0001387501388
-Oliver Bearman,Haas,200000,0.0004997501249,6.7,0.00007458957089
-Franco Colapinto,Alpine,300000,0.0003332222592,4.7,0.00007089835303
-Gabriel Bortoleto,Kick Sauber,300000,0.0003332222592,4.5,0.00007404939094
->>>>>>> 69eaf835ad4a1dab7be2a68d463a8ab2927b53fe
+Lando Norris,McLaren,250,0.2857142857,578,28.9,30.5
+Charles Leclerc,Ferrari,2000,0.04761904762,317,15.9,23
+Max Verstappen,Red Bull,120,0.4545454545,530,26.5,29.1
+Oscar Piastri,McLaren,400,0.2,560,28.0,26.3
+Lewis Hamilton,Ferrari,2800,0.03448275862,332,16.6,22.7
+George Russell,Mercedes,1800,0.05263157895,454,22.7,23.3
+Kimi Antonelli,Mercedes,6000,0.01639344262,191,9.6,15.7
+Liam Lawson,Racing Bulls,50000,0.001996007984,57,2.9,7.1
+Carlos Sainz,Williams,100000,0.000999000999,63,3.2,6.9
+Alex Albon,Williams,50000,0.001996007984,168,8.4,13
+Fernando Alonso,Aston Martin,30000,0.003322259136,40,2.0,6.1
+Pierre Gasly,Alpine,300000,0.0003332222592,24,1.2,4.5
+Yuki Tsunoda,Red Bull,50000,0.001996007984,147,7.4,10.2
+Esteban Ocon,Haas,200000,0.0004997501249,115,5.8,7.1
+Isack Hadjar,Racing Bulls,30000,0.003322259136,85,4.3,6.5
+Lance Stroll,Aston Martin,200000,0.0004997501249,131,6.6,8.7
+Nico Hulkenberg,Kick Sauber,100000,0.000999000999,141,7.1,7.4
+Oliver Bearman,Haas,100000,0.000999000999,141,7.1,7.7
+Franco Colapinto,Alpine,300000,0.0003332222592,14,1.0,4.5
+Gabriel Bortoleto,Kick Sauber,100000,0.000999000999,65,3.3,6.7
